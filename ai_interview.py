@@ -3,7 +3,7 @@ import time
 import sqlite3
 import streamlit as st
 import pandas as pd
-import speech_recognition as sr
+import speech_recognition
 import requests
 
 # ✅ Step 1: Ensure OpenRouter API Key is Set Securely
